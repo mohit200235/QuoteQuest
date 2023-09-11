@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
     private RecyclerViewAdapter recyclerViewAdapter;
 
     SwipeRefreshLayout srl;
-    public static final String KEY = "UoNn9w7L0pTdRtrYMkcQrFJ4S08Sv0HrQ0BPsOEH";
+    public static final String KEY = "YOUR_API_KEY";
 
     List<Quote> quotes;
     private boolean isRefreshing = false;
