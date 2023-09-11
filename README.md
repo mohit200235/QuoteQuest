@@ -54,6 +54,14 @@ The app sends daily notifications with inspirational quotes using the Android No
  - Add more categories of quotes.
  - Improve the UI/UX.
 
+# Configuration
+To use this app with your own OpenWeatherMap API key, replace the KEY variable in the MainActivity class with your API key: The app uses several libraries and dependencies, including:
+
+private final static String KEY = "YOUR_API_KEY_HERE";
+
+# Contributing
+Contributions to this project are welcome! You can contribute by submitting bug reports, feature requests, or code contributions through pull requests.
+
 # Author
  "Mohit Gupta"
 
