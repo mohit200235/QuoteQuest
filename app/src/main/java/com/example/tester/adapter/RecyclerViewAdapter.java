@@ -36,7 +36,7 @@ import retrofit2.Retrofit;
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder> {
 
     private Context context;
-    public static final String KEY = "UoNn9w7L0pTdRtrYMkcQrFJ4S08Sv0HrQ0BPsOEH";
+    public static final String KEY = "YOUR_API_KEY";
 
     private List<Quote> quotes;
 
